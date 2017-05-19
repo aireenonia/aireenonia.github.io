@@ -1,0 +1,68 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;0
+}
+.bg {
+	background-image: url("./images/raindrops.jpeg");
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 1024px;
+	min-height: 100%;
+	width: 100%;
+	height: auto;
+}
+
+.container-fluid {
+    position: absolute;
+    height: 450px;
+    width: 390px;
+    left: 35%;
+    bottom:15%;
+    border-radius: 10px;
+}
+
+.bg1 {
+	background-color: #b4a9a9;
+
+}
+
+.pic1 {
+	display: inline;
+	margin-top: 36px;
+	height: 100px;
+	width: 100px;
+}	
+
+.name {
+	padding-top: 20px;
+	color: #313F47;
+	text-align: center;
+	letter-spacing: 6px;
+	font-size: 36px;
+}
+
+hr {
+	width: 20%;
+}
+
+.title {
+	color: #313F47;
+	text-align: center;
+	letter-spacing: 4px;
+}
+
+ul, li, a {
+	display: inline-block;
+
+}
+
+.twitter, .fb, .instagram {
+	margin-top: 15px;
+	height: 70px;
+	width: 70px;
+	border-radius: 100px;
+}
+
+img:hover {
+	background-color: #FF7496;
+}
