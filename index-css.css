@@ -3,7 +3,7 @@
 }
 body {
 	background-image: url("./images/newbg.jpg");
-	background-size: cover;
+	background-size: all;
 	min-width: 1024px;
 	min-height: 100%;
 	width: 100%;
